@@ -10,6 +10,3 @@ During this Quarantine  stay safe and connected  with my web.
 5. Chat bot to check symptoms of Corona
 6. Live   corona traking map 
 
-![image](images/homepage.png)
-![image](images/coronatrack.png)
-![image](images/chat.png)
