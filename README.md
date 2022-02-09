@@ -1,5 +1,6 @@
 # FitHuman
-This is my first website created for fitness enthusiasts.
+We are excited to announce the launch of my new project.
+During this Quarantine  stay safe and connected  with my web.
 
 # Key Features  of FitHuman Website
 1. Free Workout with different  forms of workout 
@@ -9,3 +10,6 @@ This is my first website created for fitness enthusiasts.
 5. Chat bot to check symptoms of Corona
 6. Live   corona traking map 
 
+![image](images/homepage.png)
+![image](images/coronatrack.png)
+![image](images/chat.png)
